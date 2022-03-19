@@ -1,3 +1,3 @@
 class Perro {
-    fun ladrar() = "Guau!"
+    fun ladrar() = "Guau!!!!!!"
 }
